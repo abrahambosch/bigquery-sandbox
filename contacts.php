@@ -1,5 +1,8 @@
 <?php
 
+// https://github.com/googleapis/google-cloud-php-bigquery
+// https://cloud.google.com/bigquery/docs/loading-data-local
+
 require 'vendor/autoload.php';
 
 use Google\Cloud\BigQuery\BigQueryClient;
